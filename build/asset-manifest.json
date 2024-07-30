@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drag-and-Drop-using-React/static/css/main.bfa602bc.css",
+    "main.js": "/Drag-and-Drop-using-React/static/js/main.83f2b642.js",
+    "static/js/453.ed3810f9.chunk.js": "/Drag-and-Drop-using-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Drag-and-Drop-using-React/index.html",
+    "main.bfa602bc.css.map": "/Drag-and-Drop-using-React/static/css/main.bfa602bc.css.map",
+    "main.83f2b642.js.map": "/Drag-and-Drop-using-React/static/js/main.83f2b642.js.map",
+    "453.ed3810f9.chunk.js.map": "/Drag-and-Drop-using-React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa602bc.css",
+    "static/js/main.83f2b642.js"
+  ]
+}
